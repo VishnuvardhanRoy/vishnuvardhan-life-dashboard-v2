@@ -1,0 +1,36 @@
+{
+  "name": "vishnuvardhan-life-dashboard-v2",
+  "version": "1.0.0",
+  "description": "A real, functional MVP life tracking dashboard built with React + Firebase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "firebase": "^9.22.2",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.4.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.25"
+  },
+  "keywords": [
+    "life-tracking",
+    "habits",
+    "dashboard",
+    "react",
+    "firebase"
+  ],
+  "author": "VISHNUVARDHAN ROY",
+  "license": "MIT"
+}
